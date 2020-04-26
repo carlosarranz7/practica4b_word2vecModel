@@ -1,0 +1,1 @@
+# practica4b_word2vecModel
